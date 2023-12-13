@@ -1,0 +1,198 @@
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Compuer Shop System Management.exe.config
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Compuer Shop System Management.exe
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Compuer Shop System Management.pdb
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Computer.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.csproj.AssemblyReference.cache
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.LoginForm.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.Properties.Resources.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.csproj.GenerateResource.cache
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.csproj.CoreCompileInputs.cache
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.csproj.CopyComplete
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.exe
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.pdb
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.ForgotPasswordForm.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.MainForm.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlDashboard.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlBrand.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlCategory.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlProduct.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlOrder.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.FormReport.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlReport.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\EnvDTE.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\stdole.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlUser.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Compuer Shop System Management.exe.config
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Compuer Shop System Management.exe
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Compuer Shop System Management.pdb
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Computer.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\EnvDTE.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\stdole.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.csproj.AssemblyReference.cache
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.ForgotPasswordForm.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.FormReport.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.LoginForm.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.MainForm.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlBrand.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlCategory.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlDashboard.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlOrder.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlProduct.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlReport.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.PAL.UserControlUser.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer_Shop_System_Management.Properties.Resources.resources
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.csproj.GenerateResource.cache
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.csproj.CoreCompileInputs.cache
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.csproj.CopyComplete
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.exe
+D:\RUPP-Y4\OOAD\Assignment\Compuer Shop System Management\Compuer Shop System Management\Compuer Shop System Management\obj\Debug\Compuer Shop System Management.pdb
